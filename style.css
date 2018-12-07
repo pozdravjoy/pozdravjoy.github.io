@@ -1,7 +1,8 @@
 ﻿html{background:#fffcfe url('/img/flowers.jpg')}
 body{max-width:800px;margin:0 auto;background:#fffaf5;min-height:100vh}
-h1{margin:0 0 20px;padding:20px;color:#f96d86;text-shadow:2px 2px 2px rgba(0,0,0,0.1)}
+h1{margin:0 0 20px;padding:20px;color:#ff2d53;text-shadow:2px 2px 2px rgba(0,0,0,0.1)}
 h2{margin:0;padding:0;color:#9e2500;text-shadow:2px 2px 2px rgba(0,0,0,0.1)}
+h3{color:#e200d1}
 .wrap{position:relative;text-align:center;min-width:540px;padding:0}
 .grattis{font-size:1.2em;line-height:1.5em;padding:0 0 20px;margin:0 auto 20px;width:50%;min-width:400px;border-bottom:1px dashed red}
 .description{font-size:1.2em;line-height:1.7em;margin:0 0 30px;padding:0 20px}
