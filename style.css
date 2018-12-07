@@ -1,5 +1,5 @@
 ﻿html{background:#fffcfe url('/img/flowers.jpg')}
-body{max-width:800px;margin:0 auto;background:#fffaf5;min-height:100vh}
+body{max-width:800px;margin:0 auto;background:#fffaf5;/*min-height:100vh;*/font-family:Helvetica}
 h1{margin:0 0 20px;padding:20px;color:#ff2d53;text-shadow:2px 2px 2px rgba(0,0,0,0.1)}
 h2{margin:0;padding:0;color:#9e2500;text-shadow:2px 2px 2px rgba(0,0,0,0.1)}
 h3{color:#e200d1}
@@ -9,10 +9,10 @@ h3{color:#e200d1}
 .wrap .grattis:last-child{border-bottom:0 none;margin-bottom:10px}
 .description{font-size:1.2em;line-height:1.7em;margin:0 0 30px;padding:0 20px}
 .widget{position:relative;width:600px;margin:0 auto}
-.footer{padding:20px 0 10px 0;margin:0;background:#fff;font-family:Helvetica}
-.menu-bottom{}
-.menu-bottom ul{}
-li.menu{}
+.footer{padding:20px 0 10px 0;margin:0;background:#fff}
+.menu-bottom{position:relative;}
+.menu-bottom ul{display:inline-block;padding-left:10px;list-style-type:none}
+li.menu{display:inline-block;padding:0 5px}
 
 
 
