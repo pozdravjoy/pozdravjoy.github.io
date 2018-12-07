@@ -10,7 +10,7 @@ h3{color:#e200d1}
 .description{font-size:1.2em;line-height:1.7em;margin:0 0 30px;padding:0 20px}
 .widget{position:relative;width:600px;margin:0 auto}
 .footer{padding:20px 0 10px 0;margin:0;background:#fff;font-size:0.9em}
-.menu-bottom{position:relative;color:#f5fffa}
+.menu-bottom{position:relative;color:#6f02b3;background:#f5fffa}
 .menu-bottom ul{display:inline-block;padding-left:10px;list-style-type:none}
 li.menu{display:inline-block;padding:0 5px}
 li.menu.selected{font-weight:bold}
